@@ -1,1 +1,2 @@
-# odin-recipes
+
+I’ve created a simple HTML site featuring one Indian-style curry recipe and two dessert recipes. Through this project, I learned about various HTML elements and gained a better understanding of how and when to use them. I’m excited to continue progressing through my Odin journey.
